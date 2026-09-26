@@ -4,13 +4,13 @@ This repository contains an AI-generated synthetic retail transactions dataset (
 
 ## Projects
 
-📊 [SQL Data Pipeline & Power BI Dashboard](https://github.com/rahulrawatuk2001/Data-Analytics-Portfolio/blob/main/SQL-PowerBI)
+📊 [SQL Data Pipeline & Power BI Dashboard](https://github.com/rahulrawatuk2001/Data-Analytics-Portfolio/tree/main/SQL-PowerBI)
 Data cleaned and checked in MySQL, then imported into Power BI to create table relationships, DAX measures, and an interactive dashboard.
 
-📈 [Excel Reporting Dashboard](https://github.com/rahulrawatuk2001/Data-Analytics-Portfolio/blob/main/Excel-Dashboard)
+📈 [Excel Reporting Dashboard](https://github.com/rahulrawatuk2001/Data-Analytics-Portfolio/tree/main/Excel-Dashboard)
 Data cleaned and analyzed using only Excel — Pivot Tables, Pivot Charts, and formulas, without using SQL or Power BI.
 
-🐍 [Python Exploratory Data Analysis (EDA)](https://github.com/rahulrawatuk2001/Data-Analytics-Portfolio/blob/main/Python-EDA)
+🐍 [Python Exploratory Data Analysis (EDA)](https://github.com/rahulrawatuk2001/Data-Analytics-Portfolio/tree/main/Python-EDA)
 Exploratory Data Analysis using Python (Pandas, Matplotlib, and Seaborn) — data cleaning, statistical analysis, and visualizations.
 
 ## Skills Demonstrated
