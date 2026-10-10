@@ -109,6 +109,12 @@ Year-over-Year (YoY) Growth %: compares Total Sales with the same period last ye
 
 ## Step 10: Dashboard
 
+![Dashboard Overview](dashboard-overview.png)
+*All years selected. YoY Growth % stays blank because it needs a single year.*
+
+![Dashboard 2022](dashboard-2022.png)
+*Year 2022 selected. YoY Growth % shows 2.58%.*
+
 **Page 1: Overview**
 
 Slicers: Category, Region, Year
