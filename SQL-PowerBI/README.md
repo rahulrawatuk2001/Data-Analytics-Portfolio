@@ -134,7 +134,7 @@ Each chart from Page 1 is explained using Pattern, Reason, and Suggestion. Patte
 * Suggestion: Try simple offers in September, where sales are lowest, to see if they help increase sales.
 
 2. Total Sales and Profit Margin % by Category
-* Pattern: Sales range from about $12.6M to $13.1M across the three categories. Furniture has the highest margin (9.33%), while Technology has the lowest (7.80%).
+* Pattern: Furniture ($13.06M) and Office Supplies ($13.05M) have almost equal sales, while Technology is lower at $12.59M. Furniture has the highest margin (9.33%), while Technology has the lowest (7.80%).
 * Reason: Machines (a Technology sub-category) has a low margin of 6.04%, which may contribute to Technology's lower margin.
 * Suggestion: Check the prices and costs of Machines to see if there is a way to improve its profit.
 
